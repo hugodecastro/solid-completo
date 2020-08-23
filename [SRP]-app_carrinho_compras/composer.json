@@ -1,0 +1,12 @@
+{
+    "name": "hcastro/app_carrinho_compras",
+    "description": "aplicacao do principio srp",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hugo Castro",
+            "email": "hugodecastro63@gmail.com"
+        }
+    ],
+    "require": {}
+}
