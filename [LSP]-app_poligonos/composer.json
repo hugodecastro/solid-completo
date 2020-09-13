@@ -1,0 +1,15 @@
+{
+    "name": "hcastro/app_poligonos",
+    "authors": [
+        {
+            "name": "Hugo Castro",
+            "email": "hugodecastro63@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}
