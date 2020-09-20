@@ -2,6 +2,10 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-echo 'Funcionando DIP';
+use src\Mensageiro;
+
+$msg = new Mensageiro();
+
+$msg->enviarToken();
 
 ?>
